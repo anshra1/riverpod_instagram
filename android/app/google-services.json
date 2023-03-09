@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "941916100480",
+    "project_id": "riverpod-instagram-a66a6",
+    "storage_bucket": "riverpod-instagram-a66a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941916100480:android:0e66c2ab0ad6bbe4fb5365",
+        "android_client_info": {
+          "package_name": "com.example.riverpod_instagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941916100480-siog9999dpthukeq8udl91bmqkg1n9ap.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.riverpod_instagram",
+            "certificate_hash": "44ad9b5e1ef31b9855d8ca54208d65cd2e64cd0a"
+          }
+        },
+        {
+          "client_id": "941916100480-soc9v37akpj8qmdpo9bs2s28ljcd4aff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn60gwj4Zk-lRuQA69BbX8TCLyzsX2JHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941916100480-soc9v37akpj8qmdpo9bs2s28ljcd4aff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
